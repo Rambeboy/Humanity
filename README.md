@@ -59,8 +59,7 @@ An automated bot for claiming THP tokens and rewards on the Humanity Protocol te
 
 ## Usage
 
-1. First, register on Humanity Protocol:
-   [Register Here](https://testnet.humanity.org/login?ref=kingnode)
+1. First, [Register on Humanity Protoco](https://testnet.humanity.org/login?ref=kingnode)
 
 2. Input code: `kingnode`
 
