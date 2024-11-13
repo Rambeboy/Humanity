@@ -30,21 +30,26 @@ An automated bot for claiming THP tokens and rewards on the Humanity Protocol te
 ## Installation
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/Rambeboy/Humanity.git && cd Humanity
    ```
 
-2. Install dependencies:
+3. Install dependencies:
+
    ```bash
    npm install
    ```
+
    or
+
    ```bash
    yarn install
    ```
 
-3. Set up your private keys:
+5. Set up your private keys:
 - Edit `data.txt` file in the root directory and add your private keys (one per line):
+
   ```
   privatekeywithout0x
   anotherprivatekeywithout0x
@@ -125,7 +130,7 @@ This bot is for educational purposes only. Use at your own risk. Always verify t
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -134,9 +139,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Thanks to Humanity Protocol for creating an amazing platform
 - Thanks to all contributors and testers
 
----
-
-Remember to always keep your private keys secure and never share them with anyone.
+**Remember to always keep your private keys secure and never share them with anyone.**
 
 
 ---
