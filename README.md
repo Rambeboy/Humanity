@@ -30,28 +30,25 @@ An automated bot for claiming THP tokens and rewards on the Humanity Protocol te
 ## Installation
 
 1. Clone this repository:
-
-```bash
-git clone https://github.com/Rambeboy/Humanity.git && cd Humanity
-```
+   ```bash
+   git clone https://github.com/Rambeboy/Humanity.git && cd Humanity
+   ```
 
 2. Install dependencies:
-
-```bash
-npm install
-```
-or
-```bash
-yarn install
-```
+   ```bash
+   npm install
+   ```
+   or
+   ```bash
+   yarn install
+   ```
 
 3. Set up your private keys:
-   Edit `data.txt` file in the root directory and add your private keys (one per line):
-
-```
-yourprivatekeywithout0x
-anotherprivatekeywithout0x
-```
+- Edit `data.txt` file in the root directory and add your private keys (one per line):
+  ```
+  privatekeywithout0x
+  anotherprivatekeywithout0x
+  ```
 
 ---
 
